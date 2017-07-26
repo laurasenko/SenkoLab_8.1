@@ -11,12 +11,16 @@ body {
     color: rgb(23, 89, 39);
     font-family: "Trebuchet MS", Helvetica, sans-serif;
     font-size: 130%;
+    width: 50%;
+    padding: 2%;
     border: 5px groove rgb(23, 89, 39);
+    margin: 0 auto;
 }
 
 h3 {
   font-family: Impact, Charcoal, sans-serif;
   font-size: 220%;
+  text-align: center;
 }
 label{
   font-family: Impact, Charcoal, sans-serif;
